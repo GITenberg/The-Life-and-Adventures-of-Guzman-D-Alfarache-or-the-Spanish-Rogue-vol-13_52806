@@ -1,5 +1,5 @@
 _repo: The-Life-and-Adventures-of-Guzman-D-Alfarache-or-the-Spanish-Rogue-vol-13_52806
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Le Sage, Alain René
@@ -16,6 +16,9 @@ contributor:
   - agent_name: Brady, John Henry
     gutenberg_agent_id: '47051'
     url: http://www.gutenberg.org/2009/agents/47051
+covers:
+- cover_type: archival
+  image_path: 52806-h/images/cover.jpg
 creator:
   author:
     agent_name: Alemán, Mateo
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '49350'
     url: http://www.gutenberg.org/2009/agents/49350
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52806#The-Life-and-Adventures-of-Guzman-D-Alfarache-or-the-Spanish-Rogue-vol-13
 gutenberg_issued: '2016-08-14'
 gutenberg_type: Text
 identifiers:
